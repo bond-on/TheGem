@@ -7,6 +7,7 @@
         <meta name="viewport" content="width=350, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>Landing Page</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
         <!-- <?php wp_head(); ?> -->
     </head>
 <body>
